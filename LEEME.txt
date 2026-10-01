@@ -1,0 +1,13 @@
+ApiControl V5 — versión de prueba
+
+Contenido: index.html + manifest.json. No contiene ejecutables ni instaladores.
+
+IMPORTANTE PARA CONSERVAR TUS DATOS:
+1) Abrí tu V3 que ya tiene los datos.
+2) Entrá a Más.
+3) Elegí Exportar respaldo.
+4) Guardá el archivo JSON.
+5) Abrí V5 y en Más elegí Importar respaldo.
+6) Seleccioná ese JSON.
+
+No borres la V3 hasta comprobar que todos los datos aparecen en V5.

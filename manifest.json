@@ -1,0 +1,9 @@
+{
+  "name":"ApiControl V5 Manos Libres",
+  "short_name":"ApiControl",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#111111",
+  "theme_color":"#f4b400",
+  "lang":"es-AR"
+}
